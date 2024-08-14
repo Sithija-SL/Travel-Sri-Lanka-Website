@@ -9,6 +9,7 @@ Features
 Introductory Page: Welcomes visitors with an engaging introductory page that highlights the essence of our travel website and sets the tone for exploration. Destination Page: Showcases top travel destinations with captivating imagery, detailed descriptions, and essential information to inspire and inform visitors. Hotel Packages: Presents the best hotel packages tailored to different interests and budgets, complete with itinerary details, pricing, and booking options for seamless travel planning. Contact Us Page: Provides a user-friendly contact page with essential contact information inquiry forms, and interactive maps for visitors to reach out and engage with our travel company effortlessly. Accommodation Booking: View and book accommodations in different regions.
 
 Technologies Used
+
 Front-End: HTML, CSS, JavaScript 
 Back-End: PHP Database: MySQL
 
@@ -17,4 +18,6 @@ Installation
 Clone the repository to your local machine Open index.php in your web browser to access the home page. after download the zip file extract it and put the xampp htdoc folder.after import the travel.sql file phpmradmin.aftr Apache Admin and after click on the ebsite name. if you need edit this project open it VS code.
 
 or any inquiries or suggestions, feel free to reach out:
-Email: sithijawijesinghe1999@gmail.com GitHub: Sithija-SL
+
+Email: sithijawijesinghe1999@gmail.com 
+GitHub: Sithija-SL
